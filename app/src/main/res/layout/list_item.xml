@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="wrap_content"
+android:layout_height="90dp"
+android:background="@color/white"
+android:minHeight="90dp">
+
+    <RelativeLayout
+        android:id="@+id/text_container"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@id/store_logo_image"
+        android:orientation="vertical"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:id="@+id/store_name_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:layout_weight="1"
+            android:gravity="bottom"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/black"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/store_address_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="22dp"
+            android:layout_below="@id/store_name_text_view"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/darker_gray" />
+        <TextView
+            android:id="@+id/store_hours_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="22dp"
+            android:layout_below="@id/store_address_text_view"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/darker_gray" />
+
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/store_logo_image"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_alignParentRight="true"/>
+</RelativeLayout>

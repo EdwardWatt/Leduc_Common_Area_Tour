@@ -1,0 +1,223 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Leduc Common</string>
+
+    <!-- Category name for Specialty [CHAR LIMIT=20] -->
+    <string name="services_specialty">Misc.</string>
+
+    <!-- Category name for Food [CHAR LIMIT=20] -->
+    <string name="services_food">Food</string>
+
+    <!-- Category name for Health [CHAR LIMIT=20] -->
+    <string name="services_health">Health</string>
+
+    <!-- Category name for Clothing [CHAR LIMIT=20] -->
+    <string name="services_clothing">Attire</string>
+
+    <!-- Category name for Services [CHAR LIMIT=20] -->
+    <string name="services_department">Depart.</string>
+
+    <!-- Department Store WalMart [CHAR LIMIT=20] -->
+    <string name="department_walmart">WalMart</string>
+
+    <!-- Department Store Canadian Tire [CHAR LIMIT=20] -->
+    <string name="department_canadiantire">Canadian Tire</string>
+
+    <!-- Department Store Rona [CHAR LIMIT=20] -->
+    <string name="department_rona">Rona</string>
+
+    <!-- Department Store Peavy Mart [CHAR LIMIT=20] -->
+    <string name="department_peavymart">Peavy Mart</string>
+
+    <!-- Department Store Sport Check [CHAR LIMIT=20] -->
+    <string name="department_sportcheck">Sport Check</string>
+
+    <!-- Department Store Staples [CHAR LIMIT=20] -->
+    <string name="department_staples">Staples</string>
+
+    <!-- Department Store Dollarama [CHAR LIMIT=20] -->
+    <string name="department_dollarama">Dollarama</string>
+
+    <!-- Department Store Michaels [CHAR LIMIT=20] -->
+    <string name="department_michaels">Michaels</string>
+
+    <!-- Department Store Winners [CHAR LIMIT=20] -->
+    <string name="department_winners">Winners</string>
+
+    <!-- Specialty Store The Source [CHAR LIMIT=20] -->
+    <string name="specialty_the_source">The Source</string>
+
+    <!-- Specialty Store EB Games [CHAR LIMIT=20] -->
+    <string name="specialty_eb_games">EB Games</string>
+
+    <!-- Specialty Store Telus Mobility [CHAR LIMIT=20] -->
+    <string name="specialty_telus_mobility">Telus Mobility</string>
+
+    <!-- Specialty Store The Brick Mattress Store [CHAR LIMIT=20] -->
+    <string name="specialty_the_brick_mattress">The Brick Mattress Store</string>
+
+    <!-- Specialty Store Jiffy Lube [CHAR LIMIT=20] -->
+    <string name="specialty_jiffylube">Jiffy Lube</string>
+
+    <!-- Specialty Store Canadian Western Bank [CHAR LIMIT=20] -->
+    <string name="specialty_canadian_western_bank">Canadian Western Bank</string>
+
+    <!-- Specialty Store TD Canada Trust Branch [CHAR LIMIT=20] -->
+    <string name="specialty_td_canada_bank">TD Canada Trust Branch</string>
+
+    <!-- Specialty Store Bone & Biscuit Leduc [CHAR LIMIT=20] -->
+    <string name="specialty_bone_and_biscuit">Bone &amp; Biscuit Leduc</string>
+
+    <!-- Specialty Store PetSmart [CHAR LIMIT=20] -->
+    <string name="specialty_petsmart">PetSmart</string>
+
+    <!-- Specialty Store Pet Valu [CHAR LIMIT=20] -->
+    <string name="specialty_pet_valu">Pet Valu</string>
+
+    <!-- Food Store Dairy Queen [CHAR LIMIT=20] -->
+    <string name="food_dairy_queen">Dairy Queen</string>
+
+    <!-- Food Store Ace Liquor Discounter [CHAR LIMIT=20] -->
+    <string name="food_ace_liquor">Ace Liquor Discounter</string>
+
+    <!-- Food Store Tim Hortons [CHAR LIMIT=20] -->
+    <string name="food_tim_hortons">Tim Hortons</string>
+
+    <!-- Food Store M&M Food Market [CHAR LIMIT=20] -->
+    <string name="food_m_and_m_food">M&amp;M Food Market</string>
+
+    <!-- Food Store Edo Japan [CHAR LIMIT=20] -->
+    <string name="food_edo_japan">Edo Japan</string>
+
+    <!-- Food Store Mucho Baritos [CHAR LIMIT=20] -->
+    <string name="food_mucho_baritos">Mucho Baritos</string>
+
+    <!-- Food Store Ricky's All Day Grill [CHAR LIMIT=20] -->
+    <string name="food_rickys_all_day_grill">Ricky\'s All Day Grill</string>
+
+    <!-- Food Store COBS Bread Bakery [CHAR LIMIT=20] -->
+    <string name="food_cobs_bread_bakery">COBS Bread Bakery</string>
+
+    <!-- Food Store Domino's Pizza [CHAR LIMIT=20] -->
+    <string name="food_dominos_pizza">Domino\'s Pizza</string>
+
+    <!-- Food Booster Juice [CHAR LIMIT=20] -->
+    <string name="food_booster_juice">Booster Juice</string>
+
+    <!-- Food Store Original Joe's [CHAR LIMIT=20] -->
+    <string name="food_original_joes">Original Joe\'s</string>
+
+    <!-- Food Store The Chopped Leaf [CHAR LIMIT=20] -->
+    <string name="food_the_chopped_leaf">The Chopped Leaf</string>
+
+    <!-- Food Store PhoXpress [CHAR LIMIT=20] -->
+    <string name="food_phoxpress">PhoXpress</string>
+
+    <!-- Food Store Subway [CHAR LIMIT=20] -->
+    <string name="food_subway">Subway</string>
+
+    <!-- Food Store The Canadian Brewhouse [CHAR LIMIT=20] -->
+    <string name="food_the_canadian_brewhouse">The Canadian Brewhouse</string>
+
+    <!-- Clothing Store Mark's Clothing Store [CHAR LIMIT=20] -->
+    <string name="clothing_marks_clothing">Mark\'s Clothing Store</string>
+
+    <!-- Clothing Store Reitmans [CHAR LIMIT=20] -->
+    <string name="clothing_reitmans">Reitmans</string>
+
+    <!-- Clothing Store Wearhouse One [CHAR LIMIT=20] -->
+    <string name="clothing_wearhouse_one">Wearhouse One</string>
+
+    <!-- Clothing Store Ardene [CHAR LIMIT=20] -->
+    <string name="clothing_ardene">Ardene</string>
+
+    <!-- Health Store The Eye Centre [CHAR LIMIT=20] -->
+    <string name="health_the_eye_centre">The Eye Centre</string>
+
+    <!-- Health Store Fabutan [CHAR LIMIT=20] -->
+    <string name="health_fabutan">Fabutan</string>
+
+    <!-- Health Store Barbers [CHAR LIMIT=20] -->
+    <string name="health_barbers">Barbers</string>
+
+    <!-- Health Store Planet Fitness [CHAR LIMIT=20] -->
+    <string name="health_planet_fitness">Planet Fitness</string>
+
+    <!-- Health Store Studio 5 [CHAR LIMIT=20] -->
+    <string name="health_studio_5">Studio 5</string>
+
+    <!-- Health Store Q-Nails [CHAR LIMIT=20] -->
+    <string name="health_qnails">Q-Nails</string>
+
+    <!-- Health Store Studio 5 [CHAR LIMIT=20] -->
+    <string name="health_firestone_cannabis">Firestone Cannabis</string>
+
+    <!-- Health Store Great Clips [CHAR LIMIT=20] -->
+    <string name="health_great_clips">Great Clips</string>
+
+    <!-- Health Store Plantlife Cannabis [CHAR LIMIT=20] -->
+    <string name="health_plantlife_cannabis">Plantlife Cannabis</string>
+
+    <!-- Store Hours 5AM to 11PM [CHAR LIMIT=20] -->
+    <string name="store_hours_5am_to_11pm">5AM to 11PM</string>
+
+    <!-- Store Hours 6AM to 8PM [CHAR LIMIT=20] -->
+    <string name="store_hours_6am_to_8pm">6AM to 8PM</string>
+
+    <!-- Store Hours 6AM to 10PM[CHAR LIMIT=20] -->
+    <string name="store_hours_6am_to_10pm">6AM to 10PM</string>
+
+    <!-- Store Hours 6AM to 11PM [CHAR LIMIT=20] -->
+    <string name="store_hours_6am_to_11pm">6AM to 11PM</string>
+
+    <!-- Store Hours 7AM to 9PM [CHAR LIMIT=20] -->
+    <string name="store_hours_7am_to_9pm">7AM to 9PM</string>
+
+    <!-- Store Hours 8AM to 8PM[CHAR LIMIT=20] -->
+    <string name="store_hours_8am_to_8pm">8AM to 8PM</string>
+
+    <!-- Store Hours 8AM to 9PM[CHAR LIMIT=20] -->
+    <string name="store_hours_8am_to_9pm">8AM to 9PM</string>
+
+    <!-- Store Hours 8AM to 10PM[CHAR LIMIT=20] -->
+    <string name="store_hours_8am_to_10pm">8AM to 10PM</string>
+
+    <!-- Store Hours 9AM to 4PM[CHAR LIMIT=20] -->
+    <string name="store_hours_9am_to_4pm">9AM to 4PM</string>
+
+    <!-- Store Hours 9AM to 7PM[CHAR LIMIT=20] -->
+    <string name="store_hours_9am_to_7pm">9AM to 7PM</string>
+
+    <!-- Store Hours 9AM to 8PM[CHAR LIMIT=20] -->
+    <string name="store_hours_9am_to_8pm">9AM to 8PM</string>
+
+    <!-- Store Hours 9AM to 9PM[CHAR LIMIT=20] -->
+    <string name="store_hours_9am_to_9pm">9AM to 9PM</string>
+
+    <!-- Store Hours 9AM to 10PM[CHAR LIMIT=20] -->
+    <string name="store_hours_9am_to_10pm">9AM to 10PM</string>
+
+    <!-- Store Hours 10AM to 10PM[CHAR LIMIT=20] -->
+    <string name="store_hours_10am_to_10pm">10AM to 10PM</string>
+
+    <!-- Store Hours 10AM to 6PM[CHAR LIMIT=20] -->
+    <string name="store_hours_10am_to_6pm">10AM to 6PM</string>
+
+    <!-- Store Hours 10AM to 7PM[CHAR LIMIT=20] -->
+    <string name="store_hours_10am_to_7pm">10AM to 7PM</string>
+
+    <!-- Store Hours 10AM to 8PM[CHAR LIMIT=20] -->
+    <string name="store_hours_10am_to_8pm">10AM to 8PM</string>
+
+    <!-- Store Hours 11AM to 2AM[CHAR LIMIT=20] -->
+    <string name="store_hours_11am_to_2am">11AM to 2AM</string>
+
+    <!-- Store Hours 11AM to 10PM[CHAR LIMIT=20] -->
+    <string name="store_hours_11am_to_10pm">11AM to 10PM</string>
+
+    <!-- Store Hours 11AM to 9PM[CHAR LIMIT=20] -->
+    <string name="store_hours_11am_to_9pm">11AM to 9PM</string>
+
+    <!-- Full Street Name Discover Way, Leduc, Ab. [CHAR LIMIT=20] -->
+    <string name="street_name_discover_way_leduc">Discovery, Leduc, Ab.</string>
+</resources>
